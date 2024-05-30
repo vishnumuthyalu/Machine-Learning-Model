@@ -24,8 +24,8 @@
 - id3-train.dat and id3-test.dat used for ID3 Algorithm
 
 # To Test Code 
-- download .ipynb file , and download the two .csv files (distances.csv and cities.csv) and .png file (texas-map-2.png)
-- in source code , change the file path, by modifying the basePath variable. The modification should point to a folder that holds the two .csv files and .png files, so that they can be accessed by the code
+- download .ipynb file , and download the four .dat files : gd-train.dat, gd-test.dat, id3-train.dat, and id3-test.dat
+- in source code , change the file path, by modifying the basePath variable. The modification should point to a folder that holds the four .dat files, so that they can be accessed by the code
 - basePath = "your_file_path"
 - You will now be able to test out the code 
 
